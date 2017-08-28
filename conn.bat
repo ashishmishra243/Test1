@@ -1,0 +1,1 @@
+copy C:\Users\ashish-mishra\Desktop\Test\a.txt C:\Users\ashish-mishra\Desktop\script\
